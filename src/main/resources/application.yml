@@ -6,7 +6,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/joaocarlosjunior/desafio-tecnico-config-server.git
-          clone-on-start: true
+          uri: https://github.com/joaocarlosjunior/desafio-tecnico-config-server
           search-paths:
-            - email-service
+          - email-service
