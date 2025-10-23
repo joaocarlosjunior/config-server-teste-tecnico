@@ -1,0 +1,5 @@
+mail:
+  integracao: OCI
+spring:
+  application:
+    name: email-service
